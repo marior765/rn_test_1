@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "Yozma",
+      "logo": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+      "description": "some desc"
+    },
+    {
+      "name": "Google",
+      "logo": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+      "description": "some desc"
+    },
+    {
+      "name": "Microsoft",
+      "logo": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+      "description": "some desc"
+    }
+  ]
+}
